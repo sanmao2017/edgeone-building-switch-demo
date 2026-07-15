@@ -1,2 +1,15 @@
-# edgeone-building-switch-demo
-just a demo
+# 楼栋切换原型
+
+这是济南市第三人民医院「楼层详情页内切换楼栋」交互 demo。
+
+## 部署方式
+
+在腾讯云 EdgeOne Pages 中选择「通过导入 Git 仓库创建」，导入该仓库即可。
+
+- 构建命令：留空
+- 输出目录：`/`
+- 入口文件：`index.html`
+
+## 内容说明
+
+`index.html` 是完整静态页面，保留了原可视化页面的沙盒 iframe 和 CSP 设置。
